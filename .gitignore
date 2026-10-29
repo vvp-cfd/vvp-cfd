@@ -1,0 +1,17 @@
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
