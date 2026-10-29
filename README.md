@@ -39,109 +39,53 @@ Currently, I lead a team developing high-performance libraries for computation a
 
 ### Featured projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/vvp-cfd/LS-STAG-3D_parallel"><img src="assets/lsstag3d-card.svg" alt="LS-STAG-3D — flow past an arbitrary rotor"></a>
-<br>
-<strong>LS-STAG-3D</strong> — 3D immersed-boundary solver for incompressible flows with arbitrary moving bodies and coupled FSI problems. Code: <code>LS-STAG-3D_parallel</code>.
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/vvp-cfd/cfd-vv-suite"><img src="assets/cfdvv-card.svg" alt="cfd-vv-suite"></a>
-<br>
-<strong>cfd-vv-suite</strong> — open test suite for CFD verification and validation: 58 cases, solver-agnostic CLI, OpenFOAM integration.
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/vvp-cfd/beamer-template-kit"><img src="assets/beamer-card.svg" alt="beamer-template-kit"></a>
-<br>
-<strong>beamer-template-kit</strong> — commented LaTeX Beamer class with quick style customization.
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/vvp-cfd/LS-STAG-3D_parallel"><img src="assets/lsstag3d-card.svg" alt="LS-STAG-3D — flow past an arbitrary rotor" width="280"></a>
+  <a href="https://github.com/vvp-cfd/cfd-vv-suite"><img src="assets/cfdvv-card.svg" alt="cfd-vv-suite" width="280"></a>
+  <a href="https://github.com/vvp-cfd/beamer-template-kit"><img src="assets/beamer-card.svg" alt="beamer-template-kit" width="280"></a>
+</p>
+
+- **LS-STAG-3D** — 3D immersed-boundary solver for incompressible flows with arbitrary moving bodies and coupled FSI problems. Code: `LS-STAG-3D_parallel`.
+- **cfd-vv-suite** — open test suite for CFD verification and validation: 58 cases, solver-agnostic CLI, OpenFOAM integration.
+- **beamer-template-kit** — commented LaTeX Beamer class with quick style customization.
 
 ### Featured publications
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://lanbook.ru/catalog/matematika/nenyutonovskie-zhidkosti-ot-matematicheskikh-modeley-do-postroeniya-chislennykh-metodov-i-programmnoy-realizatsii/"><img src="assets/book-cover.jpg" alt="Book cover: Non-Newtonian Fluids" width="187" height="280"></a>
-<br>
-<strong>Non-Newtonian Fluids: From Mathematical Models to the Construction of Numerical Methods and Software Implementation</strong><br>
-Lan, 2026. 132 p. (in Russian).<br>
-<a href="https://lanbook.ru/catalog/matematika/nenyutonovskie-zhidkosti-ot-matematicheskikh-modeley-do-postroeniya-chislennykh-metodov-i-programmnoy-realizatsii/">Publisher page →</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://doi.org/10.1063/5.0277899"><img src="assets/pof-cover.jpg" alt="Cover: Physics of Fluids 2025" width="197" height="280"></a>
-<br>
-<strong>Modification of the Level-Set Staggered immersed boundary method for turbulent flow simulation</strong><br>
-Physics of Fluids, 2025, vol. 37, issue 8, pp. 85–118.<br>
-<a href="https://doi.org/10.1063/5.0277899">Paper DOI →</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://www.elibrary.ru/item.asp?id=28810902"><img src="assets/diss-cover.jpg" alt="Dissertation cover: LS-STAG immersed boundary method" width="197" height="280"></a>
-<br>
-<strong>Development of a Modification of the LS-STAG Immersed Boundary Method for Mathematical Modeling in Coupled Hydroelastic Problems</strong><br>
-PhD thesis, BMSTU, 2016. 150 p. (in Russian).<br>
-<a href="https://www.elibrary.ru/item.asp?id=28810902">eLibrary →</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://lanbook.ru/catalog/matematika/nenyutonovskie-zhidkosti-ot-matematicheskikh-modeley-do-postroeniya-chislennykh-metodov-i-programmnoy-realizatsii/"><img src="assets/book-cover.jpg" alt="Book cover: Non-Newtonian Fluids" width="187" height="280"></a>
+  <a href="https://doi.org/10.1063/5.0277899"><img src="assets/pof-cover.jpg" alt="Cover: Physics of Fluids 2025" width="197" height="280"></a>
+  <a href="https://www.elibrary.ru/item.asp?id=28810902"><img src="assets/diss-cover.jpg" alt="Dissertation cover: LS-STAG immersed boundary method" width="197" height="280"></a>
+</p>
+
+- **Non-Newtonian Fluids: From Mathematical Models to the Construction of Numerical Methods and Software Implementation** — Lan, 2026. 132 p. (in Russian). [Publisher page →](https://lanbook.ru/catalog/matematika/nenyutonovskie-zhidkosti-ot-matematicheskikh-modeley-do-postroeniya-chislennykh-metodov-i-programmnoy-realizatsii/)
+- **Modification of the Level-Set Staggered immersed boundary method for turbulent flow simulation** — Physics of Fluids, 2025, vol. 37, issue 8, pp. 85–118. [Paper DOI →](https://doi.org/10.1063/5.0277899)
+- **Development of a Modification of the LS-STAG Immersed Boundary Method for Mathematical Modeling in Coupled Hydroelastic Problems** — PhD thesis, BMSTU, 2016. 150 p. (in Russian). [eLibrary →](https://www.elibrary.ru/item.asp?id=28810902)
 
 ### Featured SciVis
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://vvp-cfd.github.io/scivis/"><img src="assets/scivis/propeller-3d-index.gif" alt="Autorotating propeller" width="100%"></a>
-<br>
-<strong>Autorotating propeller</strong> — 3D case, velocity field.
-</td>
-<td width="33%" valign="top">
-<a href="https://vvp-cfd.github.io/scivis/"><img src="assets/scivis/rot-osc-3d.gif" alt="Rotationally oscillating body" width="100%"></a>
-<br>
-<strong>Rotationally oscillating body</strong> — 3D case, velocity field.
-</td>
-<td width="33%" valign="top">
-<a href="https://vvp-cfd.github.io/scivis/"><img src="assets/scivis/ver-osc-1-1-3d.gif" alt="Vertical oscillation, amplitude 1.1" width="100%"></a>
-<br>
-<strong>Vertical oscillation, amplitude 1.1</strong> — 3D case, velocity field.
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://vvp-cfd.github.io/scivis/"><img src="assets/scivis/propeller-3d-index.gif" alt="Autorotating propeller" width="280"></a>
+  <a href="https://vvp-cfd.github.io/scivis/"><img src="assets/scivis/rot-osc-3d.gif" alt="Rotationally oscillating body" width="280"></a>
+  <a href="https://vvp-cfd.github.io/scivis/"><img src="assets/scivis/ver-osc-1-1-3d.gif" alt="Vertical oscillation, amplitude 1.1" width="280"></a>
+</p>
+
+- **Autorotating propeller** — 3D case, velocity field.
+- **Rotationally oscillating body** — 3D case, velocity field.
+- **Vertical oscillation, amplitude 1.1** — 3D case, velocity field.
 
 Animated previews; full clips are on [SciVis](https://vvp-cfd.github.io/scivis/).
 
 ### Featured Conferences
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://2025.iccesconf.org/"><img src="assets/icces2025-cover.jpg" alt="ICCES 2025" width="220"></a>
-<br>
-<strong>ICCES2025</strong><br>
-Changsha, China · May 25–29, 2025<br>
-<a href="https://2025.iccesconf.org/">Conference</a> ·
-<a href="https://doi.org/10.1007/978-3-032-17313-3_80">Paper DOI</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://congress.cimne.com/coupled2017/"><img src="assets/coupled2017-cover.jpg" alt="Coupled Problems 2017" width="220"></a>
-<br>
-<strong>COUPLED PROBLEMS 2017</strong><br>
-Rhodes, Greece · June 12–14, 2017<br>
-<a href="https://congress.cimne.com/coupled2017/">Conference</a> ·
-<a href="https://upcommons.upc.edu/bitstreams/02631476-838d-4ca0-a8c7-fb167f6ece3a/download">Paper</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://congress.cimne.com/coupled2015/"><img src="assets/coupled2015-cover.jpg" alt="Coupled Problems 2015" width="220"></a>
-<br>
-<strong>COUPLED PROBLEMS 2015</strong><br>
-Venice, Italy · May 18–20, 2015<br>
-<a href="https://congress.cimne.com/coupled2015/">Conference</a> ·
-<a href="https://upcommons.upc.edu/bitstreams/add7aa83-e094-4962-8ad3-fe5a0742d3af/download">Paper 1</a> ·
-<a href="https://upcommons.upc.edu/bitstreams/e483f7df-1ebc-46f1-a7b0-f172f6ddf0b0/download">Paper 2</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://2025.iccesconf.org/"><img src="assets/icces2025-cover.jpg" alt="ICCES 2025" width="220"></a>
+  <a href="https://congress.cimne.com/coupled2017/"><img src="assets/coupled2017-cover.jpg" alt="Coupled Problems 2017" width="220"></a>
+  <a href="https://congress.cimne.com/coupled2015/"><img src="assets/coupled2015-cover.jpg" alt="Coupled Problems 2015" width="220"></a>
+</p>
+
+- **ICCES2025** — Changsha, China · May 25–29, 2025. [Conference](https://2025.iccesconf.org/) · [Paper DOI](https://doi.org/10.1007/978-3-032-17313-3_80)
+- **COUPLED PROBLEMS 2017** — Rhodes, Greece · June 12–14, 2017. [Conference](https://congress.cimne.com/coupled2017/) · [Paper](https://upcommons.upc.edu/bitstreams/02631476-838d-4ca0-a8c7-fb167f6ece3a/download)
+- **COUPLED PROBLEMS 2015** — Venice, Italy · May 18–20, 2015. [Conference](https://congress.cimne.com/coupled2015/) · [Paper 1](https://upcommons.upc.edu/bitstreams/add7aa83-e094-4962-8ad3-fe5a0742d3af/download) · [Paper 2](https://upcommons.upc.edu/bitstreams/e483f7df-1ebc-46f1-a7b0-f172f6ddf0b0/download)
 
 ### Now
 
