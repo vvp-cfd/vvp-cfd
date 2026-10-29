@@ -104,7 +104,7 @@ PhD thesis, BMSTU, 2016. 150 p. (in Russian).<br>
 <td width="33%" valign="top">
 <a href="https://vvp-cfd.github.io/scivis/"><img src="assets/scivis/ver-osc-1-1-3d.gif" alt="Vertical oscillation, amplitude 1.1" width="100%"></a>
 <br>
-<strong>Vertical oscillation, amplitude 1.1</strong> — 3D case, velocity field.
+<strong>Vertical oscillation, Se/St = 1.1</strong> — 3D case, velocity field.
 </td>
 </tr>
 </table>
